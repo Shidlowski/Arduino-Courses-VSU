@@ -1,4 +1,5 @@
 # <center> **КУРС ФИЗИКА И РОБОТОТЕХНИКА "ARDUINO"** </center>
+# <center>Код класса: TD51 CCXH 7CND </center> #
 
 <p align="center">
 	<img src="https://camo.githubusercontent.com/a5c6015567380739a8dcb764b19beb1df5541428/687474703a2f2f636f6e74656e742e61726475696e6f2e63632f6272616e642f61726475696e6f2d636f6c6f722e737667" width="30%" />
