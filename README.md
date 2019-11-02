@@ -10,7 +10,7 @@
 
 ## Занятие 1 # 
 
-## Занятие 2 https://docs.google.com/presentation/d/15FbOdlpOavfc5bNifG_775w7_-T1WSNKxichl-eQzDk/edit #
+## <a href="https://docs.google.com/presentation/d/15FbOdlpOavfc5bNifG_775w7_-T1WSNKxichl-eQzDk/edit">Занятие 2</a>  #
 * Введение в программирование. Основы языка С/С++ для Arduino 
 * <a href="http://arduino.ru/Tutorial/Variables">Переменные</a>
 * Типы данных
@@ -21,7 +21,7 @@
 * Логические операторы
 * Примеры и задания 
 
-## Занятие 3 https://docs.google.com/presentation/d/10r_cfbwN4VmxKadIm4jEROAuf5kWaxesZmZX3AkD3Rc/edit #
+## <a href="https://docs.google.com/presentation/d/10r_cfbwN4VmxKadIm4jEROAuf5kWaxesZmZX3AkD3Rc/edit">Занятие 3</a> #
 * Задачи на повторение тем: переменная, тип данных, условный оператор
 * Циклы for, while, do while
 * Операторы прерывания **break, continue**
@@ -29,7 +29,7 @@
 * Основные компоненты для выполнения заданий
 * Основное правило безопасности
 
-## Занятие 4 https://docs.google.com/presentation/d/1UAQGB39ffJrkAhPR1iosl3IXrD8GL31aByQtmhIb-3g/edit?usp=sharing #
+## <a href="https://docs.google.com/presentation/d/1UAQGB39ffJrkAhPR1iosl3IXrD8GL31aByQtmhIb-3g/edit?usp=sharing">Занятие 4</a> #
 * Подготовка к практическому занятию
 * Начало работы с Arduino IDE
 * Компоненты из набора Arduino для занятия
@@ -39,7 +39,7 @@
 * Задание повышеной сложности
 * Помощник построение схем 
 
-## Занятие 5 https://docs.google.com/presentation/d/1PHVsw-pixT2wY46YYAs1gwpNw7AFGKcaiCJXBnpmr0U/edit?usp=sharing #
+## <a href="https://docs.google.com/presentation/d/1PHVsw-pixT2wY46YYAs1gwpNw7AFGKcaiCJXBnpmr0U/edit?usp=sharing">Занятие 5</a> #
 * Разбор практики прошлого занятие
 * Написание примера решения задания Занятия 4 (Пример решения)
 * Введение в построение схем
@@ -49,6 +49,15 @@
 * Задание за компьютером (Построение схемы светофора)
 * Дополнительное задание
 
+## <a href="https://docs.google.com/presentation/d/1B96dgLaOdnYZLVYz4CsYuRyXnLaYBQTnWRkrMsiHIFs/edit?usp=sharing ">Занятие 6</a> #
+* Кнопка и Arduino
+* Группы кнопок
+* Схема типовой тактовой кнопки 
+* Функции используемые для работы с кнопками
+* Программирование в виде кода в Tinkercad Circuits
+* Задание 1 и код к нему, разбор, пояснения
+* Самостоятельная работа с заданиями
+* Дополнительное задание
 
 ## Шпаргалки по синтаксису языка #
 * http://arduino.ru/Reference
