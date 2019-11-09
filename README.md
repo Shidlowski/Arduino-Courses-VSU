@@ -1,4 +1,5 @@
 # <center> **КУРС ФИЗИКА И РОБОТОТЕХНИКА "ARDUINO"** </center>
+# <p style="color:Red"> ВНИМАНИЕ! ЗАНЯТИЙ НЕ БУДЕТ: 09.11.2019 и 16.11.2019 </p> #
 # <center>Код класса: TD51 CCXH 7CND </center> #
 
 <p align="center">
