@@ -147,6 +147,10 @@
 * Практические задания с участием четырехразрядного семисегментного индикатора
 * Дополнительные задания
 
+## <a href="https://docs.google.com/presentation/d/1HRU7m1qFgTJNawvgGXwkDZvg09xrNtJjcHkA5oPOvwM/edit#slide=id.g7093f528bf_0_0">Занятие 16</a> #
+* Применение полученных знаний
+* Разработка собственного проекта
+
 ## Шпаргалки по синтаксису языка #
 * http://arduino.ru/Reference
 
