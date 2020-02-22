@@ -151,6 +151,10 @@
 * Применение полученных знаний
 * Разработка собственного проекта
 
+## <a href="https://docs.google.com/presentation/d/1r7mZLk1izPaOaQIpcPedbBf_sO8JwNckx7Psiju73HY/edit">Занятие 17</a> #
+* Применение полученных знаний
+* Разработка собственного проекта
+
 ## Шпаргалки по синтаксису языка #
 * http://arduino.ru/Reference
 
