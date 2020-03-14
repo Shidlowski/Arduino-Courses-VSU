@@ -1,5 +1,5 @@
-#define PIN_TRIG D4
-#define PIN_ECHO D7
+#define PIN_TRIG 7
+#define PIN_ECHO 4
 
 long duration, cm;
 
