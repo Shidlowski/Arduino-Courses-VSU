@@ -172,7 +172,7 @@
 * Практические задания
 * Дополнительное задание
 
-## <a href="https://docs.google.com/presentation/d/13n2jt_gaP2Lm9QODmMkbiKsamNAescHe52JEpR_7U60/edit#slide=id.g52cf74b418_3_59">Занятие 20</a> #
+## <a href="https://docs.google.com/presentation/d/13n2jt_gaP2Lm9QODmMkbiKsamNAescHe52JEpR_7U60/edit#slide=id.g52cf74b418_3_59">Занятие 20-21</a> #
 * Знакомство с РобоРовер М1 Education
 * Дополнительная информация и документация
 * Начало работы с датчиками
