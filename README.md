@@ -196,10 +196,12 @@
 
 ## <a href="https://docs.google.com/presentation/d/1L8qdQJm603QQ80pS7zqLV6MSrnZYNyBibVC75RzhPtw/edit#slide=id.g76c44ec8ea_0_16">Offline Занятие 25 (18.04.2020 11:35 - 13:00)(Нажать сюда для перехода на презентацию)</a> #
 * Переход на дистанционную систему обучения
+* DIP переключатель
 * И снова Tingercad
 * Задача и пояснение к ней
-* Задание
+* Задания для самостоятельной работы
 * Почта для связи schidlowski95@tut.by
+* Конференц связь для онлайн вопросов  <a hreff="https://meet.jit.si/Arduino_VSU_Curses"> ссылка </a>
 
 ## Шпаргалки по синтаксису языка #
 * http://arduino.ru/Reference
