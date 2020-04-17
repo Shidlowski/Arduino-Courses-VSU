@@ -201,7 +201,8 @@
 * Задача и пояснение к ней
 * Задания для самостоятельной работы
 * Почта для связи schidlowski95@tut.by
-* Конференц связь для онлайн вопросов  <a hreff="https://meet.jit.si/Arduino_VSU_Curses"> ссылка </a>
+* Конференц связь для онлайн вопросов  
+<a hreff="https://meet.jit.si/Arduino_VSU_Curses"> ссылка </a>
 
 ## Шпаргалки по синтаксису языка #
 * http://arduino.ru/Reference
