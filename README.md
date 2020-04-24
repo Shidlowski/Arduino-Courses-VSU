@@ -203,6 +203,18 @@
 * Почта для связи schidlowski95@tut.by
 ## <a href="https://meet.jit.si/Arduino_VSU_Curses">Конференц связь для онлайн вопросов</a> #
  
+## <a href="https://docs.google.com/presentation/d/1dIAxvFjpc3v_vBHQK0ZAGCVovt_q43vL_XdXfs3Sz7s/edit#slide=id.g7093f528bf_0_0">Offline Занятие 26 (25.04.2020 11:30 - 12:55)(Нажать сюда для перехода на презентацию)</a> #
+* Переход на дистанционную систему обучения
+* Датчик температуры окружающей среды TMP36
+* Характеристики датчика
+* Схема
+* Другие виды датчиков температуры
+* Работа в Tingercad
+* Задача и пояснение к ней (обязательно)
+* Задания для самостоятельной работы 
+* Почта для связи schidlowski95@tut.by
+
+## <a href="https://meet.jit.si/Arduino_VSU_Curses">Конференц связь для онлайн вопросов</a> #
 
 ## Шпаргалки по синтаксису языка #
 * http://arduino.ru/Reference
