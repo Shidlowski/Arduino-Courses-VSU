@@ -194,14 +194,13 @@
 * Правильная организация написания переменных 
 * Рефакторинг кода прошлого занятия
 
-## <a href="https://docs.google.com/presentation/d/1L8qdQJm603QQ80pS7zqLV6MSrnZYNyBibVC75RzhPtw/edit#slide=id.g76c44ec8ea_0_16">Offline Занятие 25 (18.04.2020 11:30 - 12:55)(Нажать сюда для перехода на презентацию)</a> #
+## <a href="https://docs.google.com/presentation/d/1L8qdQJm603QQ80pS7zqLV6MSrnZYNyBibVC75RzhPtw/edit#slide=id.g76c44ec8ea_0_16">Offline Занятие 25 (18.04.2020 11:30 - 12:55)</a> #
 * Переход на дистанционную систему обучения
 * DIP переключатель
 * И снова Tingercad
 * Задача и пояснение к ней
 * Задания для самостоятельной работы
 * Почта для связи schidlowski95@tut.by
-## <a href="https://meet.jit.si/Arduino_VSU_Curses">Конференц связь для онлайн вопросов</a> #
  
 ## <a href="https://docs.google.com/presentation/d/1dIAxvFjpc3v_vBHQK0ZAGCVovt_q43vL_XdXfs3Sz7s/edit#slide=id.g7093f528bf_0_0">Offline Занятие 26 (25.04.2020 11:30 - 12:55)(Нажать сюда для перехода на презентацию)</a> #
 * Переход на дистанционную систему обучения
