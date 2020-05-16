@@ -213,7 +213,7 @@
 * Задания для самостоятельной работы 
 * Почта для связи schidlowski95@tut.by
 
-## <a href="https://docs.google.com/presentation/d/1ny0A3jFZ5_eV8waoacu1w_Wpy_V_GH2EtdfJS9CbV-Y/edit#slide=id.g7093f528bf_0_0">Offline Занятие 27 (02.05.2020 11:30 - 12:55)(Нажать сюда для перехода на презентацию)</a> #
+## <a href="https://docs.google.com/presentation/d/1ny0A3jFZ5_eV8waoacu1w_Wpy_V_GH2EtdfJS9CbV-Y/edit#slide=id.g7093f528bf_0_0">Offline Занятие 27 (02.05.2020 11:30 - 12:55)</a> #
 * Переход на дистанционную систему обучения
 * Мультиметр
 * Назначение
@@ -222,6 +222,14 @@
 * Работа в Tingercad
 * Задача и пояснение к ней (обязательно)
 * Задания для самостоятельной работы 
+* Почта для связи schidlowski95@tut.by
+
+## <a href="https://docs.google.com/presentation/d/1FGiKUvvhf54F8giJ7zQuENWEBkHIhpJ7-KYeYRWnwpE/edit#slide=id.g7457f49ad6_0_0">Offline Занятие 28 (16.05.2020 11:30 - 12:55)(Нажать сюда для перехода на презентацию)</a> #
+* Заключительное занятие
+* Подведение итогов
+* Перечень устройств которые были в курсе
+* Творческое задание на выбор в Tingercad
+
 * Почта для связи schidlowski95@tut.by
 
 ## <a href="https://meet.jit.si/Arduino_VSU_Curses">Конференц связь для онлайн вопросов</a> #
