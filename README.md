@@ -8,7 +8,8 @@
 
 # <center> Учебные занятия </center> #
 
-## Занятие 1 # 
+## <a href="https://docs.google.com/presentation/d/11aGAU69S-5h7GTLD5kNK2J20Nxgy9jFTyGKK36WBob8/edit?usp=sharing">Занятие 1</a>  #
+* Введение в робототехнику
 
 ## <a href="https://docs.google.com/presentation/d/15FbOdlpOavfc5bNifG_775w7_-T1WSNKxichl-eQzDk/edit">Занятие 2</a>  #
 * Введение в программирование. Основы языка С/С++ для Arduino 
